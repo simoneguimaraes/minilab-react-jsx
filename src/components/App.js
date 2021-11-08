@@ -9,7 +9,7 @@ function App() {
       {/* Não se esqueça de invocar seus componentes aqui! */}
 
       <small>Interpolação de variáveis</small>
-
+      <Greeting />
       <small>Imagens</small>
       <hr />
 

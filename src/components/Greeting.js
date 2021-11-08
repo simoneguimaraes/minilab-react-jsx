@@ -1,11 +1,11 @@
 const name = "Simone";
 
-function greeting() {
+function Greeting() {
     return (
     <div>
         <h1>Olá, {name}</h1>
     </div>
-    )
+    );
 };
 
-export default greeting;
+export default Greeting;
