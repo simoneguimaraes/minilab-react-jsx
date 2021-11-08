@@ -1,5 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import greeting from "./Greeting.js";
+import Greeting from "./Greeting.js";
+import Profile from "./Profile.js";
 
 // Não se esqueça de importar os componentes!
 
@@ -12,7 +13,7 @@ function App() {
       <Greeting />
       <small>Imagens</small>
       <hr />
-
+      <Profile />
       <small>Renderização de listas</small>
       <hr />
 
