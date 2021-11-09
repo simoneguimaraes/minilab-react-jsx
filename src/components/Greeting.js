@@ -1,6 +1,5 @@
-const name = "Simone";
-
 function Greeting() {
+    const name = "Simone";
     return (
     <div>
         <h1>Olá, {name}!</h1>
